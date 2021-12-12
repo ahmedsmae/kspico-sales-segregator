@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+# external files
+/database
+/sales-data
+
 # next.js
 /.next/
 /out/
